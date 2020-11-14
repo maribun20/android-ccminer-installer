@@ -1,2 +1,2 @@
-# android-ccminer-installer
+# ccminer-verus-installer-for-android
 Installer ccminer for android
